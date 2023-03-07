@@ -11,6 +11,10 @@ First see this video
 👇👇👇👇👇👇👇👇👇
 
 
+Webhok.
+👇👇👇https://api.telegram.org/bot<api>/setWebhook?url=<your site>post.php
+
+
 Web hook link.
 👇👇👇👇👇👇👇
 https://api.telegram.org/bot<api>/setWebhook?url=<your site>post.php
@@ -20,3 +24,6 @@ Example link.
 https://api.telegram.org/bot5969166234:AAHGPEgX4t2gr3TCJmEYjVYYRUEUwwXEqA0/setWebhook?url=https://unknown-web.000webhostapp.com/post.php
 
 thanks samiul hentai lover😏.
+
+
+
