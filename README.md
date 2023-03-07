@@ -11,12 +11,9 @@ First see this video
 👇👇👇👇👇👇👇👇👇
 
 
-https://api.telegram.org/bot<api>/setWebhook?url=<your site>post.php
-
-
 Web hook link.
 👇👇👇👇👇👇👇
-https://api.telegram.org/bot<api>/setWebhook?url=<your site>post.php
+https://api.telegram.org/bot{api}/setWebhook?url={your site}post.php
 
 Example link.
 👇👇👇👇👇👇
