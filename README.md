@@ -12,7 +12,7 @@ First see this video
 
 
 Web hook link.
-👇👇👇👇👇👇
-://api.telegram.org/bot<api>/setWebhook?url=<your site>post.php
+👇👇👇👇👇👇👇
+https://api.telegram.org/bot<api>/setWebhook?url=<your site>post.php
 
 
