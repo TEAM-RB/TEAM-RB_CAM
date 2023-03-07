@@ -9,6 +9,7 @@ How to setup?
 
 First see this video
 👇👇👇👇👇👇👇👇👇
+https://youtube.com/watch?v=NS3N4XYJ63M&feature=shares
 
 
 Web hook link.
